@@ -1,8 +1,8 @@
 #import libraries
 import numpy as np
 from matplotlib import pyplot as plt
-from Mykmeans import Kmeans
-from MyPCA import PCA
+from kmeans import Kmeans
+from PCA import PCA
 import time
 
 # read in data.

@@ -1,6 +1,6 @@
 #import libraries
 import numpy as np
-from MyMLP import MLP, Normalization, process_label
+from MLP import MLP, Normalization, process_label
 from visualization import plot2d, plot3d
 
 # read in data.

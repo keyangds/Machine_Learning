@@ -1,15 +1,3 @@
-"""
-HW 0 Skeleton
-
-Note that you do not need to modify this file, but the file "MyPerceptron.py" instead.
-All this file does is read in the data, plot the points, call "MyPerceptron"
-to compute the separator, and plot the points again.  Most of the complication
-is to plot the points and draw the separator.
-
-If you want to see the plot intereactively, you can use the function "plt.show()".
-You can also omit the "plt.show()" and then display the savedd PNG files instead.
-
-"""
 
 # Header
 import numpy as np

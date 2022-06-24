@@ -1,2 +1,2 @@
 # Machine Learning Algorithm
-Here are some typicl machine learning algorithm design and implementation
+Here are some typical machine learning algorithm design and implementation

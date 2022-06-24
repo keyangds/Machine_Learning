@@ -1,5 +1,5 @@
 import numpy as np
-from MyDiscriminant import GaussianDiscriminant, GaussianDiscriminant_Diagonal
+from Discriminant import GaussianDiscriminant, GaussianDiscriminant_Diagonal
 
 # load data
 df = np.genfromtxt("training_data.txt",delimiter=",")
